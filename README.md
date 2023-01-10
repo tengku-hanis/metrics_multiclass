@@ -30,4 +30,4 @@
 Further reading: https://rdrr.io/cran/mltest/man/ml_test.html    
 Original code is here: https://github.com/cran/mltest/blob/master/R/ml_test.R
 
-**Disclaimer: this not mine, I just put it in my GitHub for my pesonal use since the package is no longer available on CRAN**
+**Disclaimer: this is not mine, I just put it in my GitHub for my pesonal use since the package is no longer available on CRAN**
